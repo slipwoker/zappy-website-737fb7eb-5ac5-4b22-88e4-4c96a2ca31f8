@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+UpUp מציעה פתרונות שיווק דיגיטלי מקצועיים לעסקים וחברות B2B. בניית דף נחיתה, קמפיינים ממירים ואסטרטגיה שמביאה תוצאות מדידות. בואו נעלה את העסק שלכם!
+
+### שירותים
+https://example.com/services
+גלו את מגוון השירותים שלנו: בניית דפי נחיתה ממירים, ניהול קמפיינים דיגיטליים, אסטרטגיית תוכן ועוד. פתרונות שיווק מותאמים אישית לכל עסק. התחילו עכשיו!
+
+### מקרי בוחן
+https://example.com/case-studies
+קראו איך עזרנו לעסקים להכפיל את ההמרות והמכירות שלהם. מקרי בוחן אמיתיים עם תוצאות מרשימות בשיווק דיגיטלי B2B. 7 up up yours להצלחה העסקית!
+
+### צור קשר
+https://example.com/contact
+מוכנים להעיף את העסק שלכם קדימה? צרו קשר עם המומחים שלנו לשיווק דיגיטלי B2B. ייעוץ ראשוני ללא עלות. everybody up up up - בואו נתחיל את המסע להצלחה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
